@@ -10,6 +10,7 @@
 - [**Scatter Lab**](https://scatterlab.co.kr/): 일상 대화 엔진 **Ping Pong**을 개발
 - [**MoneyBrain**](http://www.moneybrain.ai/): 비대면 상담 서비스가 가능한 **Play Chat**을 개발
 - [**Skelter Labs**](https://skelterlabs.com/ko/): 기업용 대화 엔진 **AIQ.TALK**를 개발
+- [**Humelo**](http://www.humelo.com/): SM Entertainmen와 *lyrics AI* 개발
 
 <br/>
 
@@ -30,6 +31,7 @@
 - [**Platfarm**](http://mojitok.com/):  사용자 쿼리에 알맞는 **이모티콘을 추천**해주는 엔진 개발
 - [**ThingsFlow**](https://thingsflow.com/):  타로, 운세와 같은 **다양한 주제의 챗봇 컨텐츠**를 제작
 - [**Atommerce**](http://www.atommerce.com/):  **심리 치료**와 관련된 자연어 처리 기술 연구
+- [**ROA Intelligence**](https://stage.roa.ai/): 자연어 처리 기술을 기반으로 **기업 분석 및 검색** 서비스 개발
 
 <br/>
 
@@ -40,5 +42,6 @@
 <br/>
 
 ## Legal Tech
+- [**LBOX**](https://lbox.kr/): 국내 최대 **판례 데이터베이스** 제작
 
 <br/>

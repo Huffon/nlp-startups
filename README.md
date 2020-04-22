@@ -14,27 +14,28 @@
 <br/>
 
 ## Search & QA
-- [42Maru](https://www.42maru.ai/en/): Semantic QA를 연구하며, SQuAD에서 우수한 성적을 거둔 이력
+- [42Maru](https://www.42maru.ai/en/):  Semantic QA를 연구하며, SQuAD에서 우수한 성적을 거둔 이력
+- [AgileSoDA](http://agilesoda.com/kr/):  문서 검색 및 분류 서비스 AestheticDoc을 개발 
 
 <br/>
 
 ## NLU Engine
-- [allginize.ai](https://allganize.ai/): 자연어 이해 엔진와 더불어 기계독해 엔진 등 다양한 자연어 처리 엔진 개발 
-- [Saltlux](http://www.saltlux.com/): 자연어 처리 외 다양한 인공지능 기술을 연구하며, 이 중 자연어 이해 엔진도 개발
-- [Atlas Labs](https://www.atlaslabs.ai/): 음성 인식 엔진 Zeroth에 뒷따르는 자연어 이해 엔진 개발
+- [Allginize.ai](https://allganize.ai/):  자연어 이해 엔진와 더불어 기계독해 엔진 등 다양한 자연어 처리 엔진 개발 
+- [Saltlux](http://www.saltlux.com/):  자연어 처리 외 다양한 인공지능 기술을 연구하며, 이 중 자연어 이해 엔진도 개발
+- [Atlas Labs](https://www.atlaslabs.ai/):  음성 인식 엔진 Zeroth에 뒷따르는 자연어 이해 엔진 개발
 
 <br/>
 
 ## Contents
-- [Platfarm](http://mojitok.com/): 사용자 쿼리에 알맞는 이모티콘을 추천해주는 엔진 개발
-- [ThingsFlow](https://thingsflow.com/): 타로, 운세와 같은 다양한 주제의 챗봇 컨텐츠를 제작
-- [Atommerce](http://www.atommerce.com/): 심리 치료와 관련된 자연어 처리 기술 연구
+- [Platfarm](http://mojitok.com/):  사용자 쿼리에 알맞는 이모티콘을 추천해주는 엔진 개발
+- [ThingsFlow](https://thingsflow.com/):  타로, 운세와 같은 다양한 주제의 챗봇 컨텐츠를 제작
+- [Atommerce](http://www.atommerce.com/):  심리 치료와 관련된 자연어 처리 기술 연구
 
 <br/>
 
 ## Education Tech
-- [MathPresso](https://mathpresso.com/): 수학 교육 어플리케이션 콴다를 운영하며, OCR
-- [LXPER](https://www.lxper.com/): 자연어 처리 기술을 기반으로 영어 학습 컨텐츠를 제작
+- [MathPresso](https://mathpresso.com/):  수학 교육 어플리케이션 콴다를 운영하며, OCR
+- [LXPER](https://www.lxper.com/):  자연어 처리 기술을 기반으로 영어 학습 컨텐츠를 제작
 
 <br/>
 

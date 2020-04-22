@@ -10,7 +10,7 @@
 - [**Scatter Lab**](https://scatterlab.co.kr/): 일상 대화 엔진 **Ping Pong**을 개발
 - [**MoneyBrain**](http://www.moneybrain.ai/): 비대면 상담 서비스가 가능한 **Play Chat**을 개발
 - [**Skelter Labs**](https://skelterlabs.com/ko/): 기업용 대화 엔진 **AIQ.TALK**를 개발
-- [**Humelo**](http://www.humelo.com/): SM Entertainment와 *lyrics AI* 개발
+- [**Humelo**](http://www.humelo.com/): SM Entertainment와 **lyrics AI** 개발
 
 <br/>
 

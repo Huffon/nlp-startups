@@ -48,4 +48,4 @@
 <br/>
 
 ## Personalized Recommender System
-- [**dable.io**](https://dable.io/ko/): 네이버와 SK Planet 추천 엔진 팀을 주축으로 **아시아 7개 국**에서 **8개 언어** 대상 2200개 미디어 통한 자연어 처리 및 **개인화 추천** 제공
+- [**dable.io**](https://dable.io/ko/): **아시아 7개 국**에서 **8개 언어** 대상 2200개 미디어 통한 자연어 처리 및 **개인화 추천** 제공

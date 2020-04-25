@@ -34,7 +34,7 @@
 ## Contents
 - [**Platfarm**](http://mojitok.com/):  사용자 쿼리에 알맞는 **이모티콘을 추천**해주는 엔진 개발
 - [**ThingsFlow**](https://thingsflow.com/):  타로, 운세와 같은 **다양한 주제의 챗봇 컨텐츠**를 제작
-- [**Atommerce**](http://www.atommerce.com/):  **심리 치료**와 관련된 자연어 처리 기술 연구
+- [**Atommerce**](http://www.atommerce.com/):  **심리 치료**와 관련된 **챗봇, 커뮤니티 분석 등**으로 자연어 처리 기술 연구
 - [**ROA Intelligence**](https://stage.roa.ai/): 자연어 처리 기술을 기반으로 **기업 분석 및 검색** 서비스 개발
 - [**Humelo**](http://www.humelo.com/): SM Entertainment와 **Lyrics AI** 개발
 

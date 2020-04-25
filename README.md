@@ -14,6 +14,7 @@
 - [**Skelter Labs**](https://skelterlabs.com/ko/): 기업용 대화 엔진 **AIQ.TALK**를 개발
 - [**Turing Bot**](https://beta.cloudturing.com/turingbot.html): 챗봇을 오랜 기간 연구한 꿈많은청년들의 인공지능 챗봇 프로젝트 **튜링봇**
 - [**MINDLOGIC**](https://mindlogic.ai/): 감성 대화가 가능한 음성 기반 **연인 챗봇**을 개발하며 챗봇 시스템에 자연어 처리 기술이 활용
+- [**Skelter Labs**](https://skelterlabs.com/ko/): 인공지능 기술 기업으로, 음성을 포함한 대화형 인공지능 **AIQ.TALK** 개발
 
 <br/>
 

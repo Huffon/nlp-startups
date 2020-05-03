@@ -11,6 +11,7 @@
 ## Conversational Agents
 - [**MINDLOGIC**](https://mindlogic.ai/): 감성 대화가 가능한 음성 기반 **연인 챗봇**을 개발하며 챗봇 시스템에 자연어 처리 기술이 활용
 - [**MoneyBrain**](http://www.moneybrain.ai/): 비대면 상담 서비스가 가능한 **Play Chat**을 개발
+- [**POSICUBE**](https://www.posicube.com/): 인공지능 기반 전화상담 서비스 **ROBI 리셉션**에 활용되는 **자연어 처리 모듈**(Intent, Chatbot, etc.) 개발
 - [**Scatter Lab**](https://scatterlab.co.kr/): 1) 일상 대화 엔진 **Ping Pong**을 개발 2) **연애의 과학** 운영으로 카카오톡 대화 기반 연애 감정 측정기 개발
 - [**Skelter Labs**](https://skelterlabs.com/ko/): 기업용 대화 엔진 **AIQ.TALK**를 개발
 - [**Turing Bot**](https://beta.cloudturing.com/turingbot.html): 챗봇을 오랜 기간 연구한 꿈많은청년들의 인공지능 챗봇 프로젝트 **튜링봇**

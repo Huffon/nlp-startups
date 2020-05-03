@@ -24,7 +24,7 @@
 <br/>
 
 ## NLU Engine
-- [**Allginize.ai**](https://allganize.ai/):  **자연어 이해 엔진**과 더불어 **기계독해 엔진** 등 다양한 자연어 처리 엔진 개발 
+- [**Allganize.ai**](https://allganize.ai/):  **자연어 이해 엔진**과 더불어 **기계독해 엔진** 등 다양한 자연어 처리 엔진 개발 
 - [**Atlas Labs**](https://www.atlaslabs.ai/):  음성 인식 엔진 **Zeroth**에 뒷따르는 **자연어 이해 엔진** 개발
 - [**Saltlux**](http://www.saltlux.com/):  자연어 처리 외 다양한 인공지능 기술을 연구하며, 이 중 **자연어 이해 엔진**도 개발
 - [**XINAPSE**](https://www.xinapse.ai/): 한국어 특화 **자연어 이해 엔진**과 **토픽 모델**을 개발

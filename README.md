@@ -1,10 +1,12 @@
 # NLP Startups
 
-대한민국에 존재하는 스타트업 중 자연어 처리 기술을 연구 및 개발하는 스타트업들을 기록합니다.
+대한민국에 존재하는 스타트업 중 **자연어 처리** 기술을 연구 및 개발하는 **스타트업**들을 기록합니다.
 
 해당 기록을 통해 취업 준비를 하시는 분들, 이직을 준비하시는 분들에게 선택의 폭이 늘어나기를 바랍니다.
 
 기록되지 않은 기업을 아시거나, 기업의 설명이 잘못되었다면 언제든지 수정을 부탁드리겠습니다.
+
+기업의 보다 **자세한 설명**을 보기 위해선 각 섹션 하단에 기록된 **상세 소개** 정보를 참조해주세요.
 
 <br/>
 
@@ -34,11 +36,12 @@
 
 ## Contents
 - [**Atommerce**](http://www.atommerce.com/):  **심리 치료**와 관련된 **챗봇, 커뮤니티 분석 등**으로 자연어 처리 기술 연구
-- [**Humelo**](http://www.humelo.com/): SM Entertainment와 **Lyrics AI** 개발
+- [**Humelo**](http://www.humelo.com/): **SM Entertainment**와 **Lyrics AI** 개발
 - [**ThingsFlow**](https://thingsflow.com/):  타로, 운세와 같은 **다양한 주제의 챗봇 컨텐츠**를 제작
 - [**Platfarm**](http://mojitok.com/):  사용자 쿼리에 알맞는 **이모티콘을 추천**해주는 엔진 개발
 - [**ROA Intelligence**](https://stage.roa.ai/): 자연어 처리 기술을 기반으로 **기업 분석 및 검색** 서비스 개발
 
+> 상세 소개: [**Humelo**](detail/humelo.md)
 
 <br/>
 

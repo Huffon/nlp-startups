@@ -4,4 +4,4 @@
 
 **음악 도메인과** **NLG**에 관심이 있는 분들에게 적합한 기업
 
-관련 포스트: http://www.humelo.com/bbs/board.php?bo_table=research&wr_id=17
+관련 포스트 : http://www.humelo.com/bbs/board.php?bo_table=research&wr_id=17

@@ -2,6 +2,6 @@
 
 회사의 메인은 **음성합성**이지만 현재는 **SM Entertainment**와의 협업을 통해서 **작사 AI**를 개발 중
 
-**음악 도메인과** **NLG**에 관심이 있는 분들에게 좋은 선택지
+**음악 도메인과** **NLG**에 관심이 있는 분들에게 적합한 기업
 
 관련 포스트: http://www.humelo.com/bbs/board.php?bo_table=research&wr_id=17

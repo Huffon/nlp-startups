@@ -49,6 +49,8 @@
 - [**LXPER**](https://www.lxper.com/):  자연어 처리 기술을 기반으로 **영어 학습 컨텐츠**를 제작
 - [**MathPresso**](https://mathpresso.com/):  **수학 교육** 어플리케이션 콴다를 운영하며, OCR 처리 이후 자연어 처리 기술 활용
 
+> 상세 소개: [**MathPresso**](detail/MathPresso.md)
+
 <br/>
 
 ## Legal Tech

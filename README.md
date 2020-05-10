@@ -18,6 +18,8 @@
 - [**Skelter Labs**](https://skelterlabs.com/ko/): 기업용 대화 엔진 **AIQ.TALK**를 개발
 - [**Turing Bot**](https://beta.cloudturing.com/turingbot.html): 챗봇을 오랜 기간 연구한 꿈많은청년들의 인공지능 챗봇 프로젝트 **튜링봇**
 
+> 상세 소개: [**Skelter Labs**](detail/skelter-labs.md)
+
 <br/>
 
 ## Search & QA
